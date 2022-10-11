@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @DarthKilroy
 - 👀 I’m interested in Systemadmin 
-- 📫 How to reach me IRC (if you find Kilroy you might of found me) or email: kilroy@sturtz.cf
+- 📫 How to reach me IRC (if you find Kilroy you might of found me) or email: darthkilroy@sturtz.io
