@@ -4,3 +4,4 @@
 - 
 <img src="https://readme-jokes.vercel.app/api"  width="100%" alt="Jokes Card" />
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=darthkilroy&theme=dark&hide_border=true)](https://git.io/streak-stats)
